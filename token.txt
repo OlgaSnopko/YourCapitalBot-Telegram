@@ -1,4 +1,0 @@
-YourCapitalBot
-YourCapitalBotBot
-Use this token to access the HTTP API:
-5554248929:AAGpKc3aeiaQ2bLDsL3eqQ71laS68vNAMwE
